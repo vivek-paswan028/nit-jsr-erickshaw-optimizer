@@ -44,3 +44,4 @@ Conversely, departing prematurely forfeits batch arrivals walking down the campu
 * **Practical Note 1:** Field data shows that 60%–70% of an e-rickshaw driver's net daily operating surplus in tier-2 railway/campus hubs is driven by total trip turnover per battery charge cycle rather than maximizing single-trip passenger fill factor.
 * **Practical Note 2:** Excessive idle curb-waiting with auxiliary loads active (lighting, mobile chargers, controller draw) degrades usable daily battery range by 8–12% without generating passenger seat kilometers.
 * **Practical Note 3 (Application to Manoj):** Manoj's blue e-rickshaw relies on a 48V 100Ah lead-acid pack providing roughly 65–75 km effective daily range; optimizing for trip count and fast turnaround yields higher net daily income than idling for marginal 4th/5th passengers.
+

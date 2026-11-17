@@ -1,0 +1,25 @@
+trip_id,arrival_time,depart_time,wait_mins,passengers_boarded,passengers_walked_away,destination,fare_total_inr,notes
+1,08:45,08:51,6,4,0,Adityapur Station,60,Morning 1st year batch heading to station; filled quick
+2,08:58,09:12,14,2,2,Bistupur,40,Waited too long for 4th pax; 2 students hopped into passing Vikram auto
+3,09:20,09:24,4,5,0,Adityapur Station,75,Rush right after 9am attendance cutoff; fast full load
+4,09:35,09:47,12,3,1,Adityapur Station,45,1 student got agitated at 9 min mark and walked towards auto stand
+5,09:55,10:02,7,4,0,Gamharia,80,Staff + 2 students heading to market; departed smoothly
+6,10:15,10:31,16,2,2,Bistupur,40,Stalled waiting for 5th seat; 2 passengers deboarded angrily
+7,10:40,10:45,5,5,0,Adityapur Station,75,Batch from civil dept survey lab; full capacity in 5 mins
+8,11:00,11:09,9,3,1,Adityapur Station,45,1 passenger left at min 8 to catch 11:20 local train
+9,11:18,11:23,5,4,0,Bistupur,80,Short wait; 4 students split fare evenly
+10,11:35,11:42,7,3,0,Adityapur Station,45,Departed with 3 seats filled; avoided risk of churn
+11,11:52,12:05,13,2,1,Gamharia,40,Long idle in sun; 1 passenger walked away after 10 mins
+12,12:15,12:19,4,5,0,Adityapur Station,75,Mid-day break dispersal; loaded immediately
+13,12:28,12:34,6,4,0,Bistupur,80,Clean turnaround; students going to Gopal Maidan area
+14,12:42,12:53,11,3,2,Adityapur Station,45,Held for 5th seat; lost 2 seated hostelers to sharing auto
+15,13:02,13:06,4,5,0,Adityapur Station,75,13:00 lab dismissal rush; instant 5 seats
+16,13:08,13:14,6,4,0,Adityapur Station,60,Manoj vehicle; departed at 6 min mark with 4 pax
+17,13:15,13:26,11,2,2,Bistupur,40,Manoj vehicle; held for full load; 2 girls left for e-rickshaw ahead
+18,13:28,13:34,6,3,0,Adityapur Station,45,Manoj vehicle; left right at 6 min mark with 3 pax; safe turnover
+19,13:38,13:50,12,2,1,Gamharia,40,Afternoon lull starting; 1 passenger cancelled wait
+20,13:55,14:01,6,4,0,Adityapur Station,60,Quick batch from computer center; good timing
+21,14:08,14:23,15,3,2,Bistupur,60,Dead hours approaching; 2 passengers lost after 11 mins wait
+22,14:30,14:37,7,3,0,Adityapur Station,45,Decided not to wait for 4th; left on time
+23,14:45,15:02,17,2,2,Adityapur Station,30,Extreme wait; lost 2 passengers; barely broke even
+24,15:10,15:15,5,4,0,Bistupur,80,Surprise library group; departed promptly
