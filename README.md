@@ -78,7 +78,8 @@ While the mathematical threshold policy offers immediate operational value, real
 
 ## 3-Minute Walkthrough Video Demo
 
-- **Loom / Screen Recording Link:** `[DEMO LINK PLACEHOLDER - Insert 3-min walkthrough video link here]`
+- **Screen Recording Walkthrough (Google Drive):** [Watch 3-Minute Technical Walkthrough Demo](https://drive.google.com/file/d/10X67xmmYV1oMuhStj2KK3yID7BptWELt/view?usp=sharing)
+- *Direct Link:* `https://drive.google.com/file/d/10X67xmmYV1oMuhStj2KK3yID7BptWELt/view?usp=sharing`
 - *The demo walkthrough covers: (1) physical location context outside NIT Main Gate, (2) editing thresholds live in `main.py`, (3) feeding corrupted rows to showcase graceful error recovery, and (4) explaining the churn cutoff recommendation.*
 
 ---
