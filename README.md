@@ -98,3 +98,4 @@ While the mathematical threshold policy offers immediate operational value, real
 │   └── field_notes_tally.jpg
 └── ai-chats/               # Exported AI prompt logs and architectural discussion
 ```
+

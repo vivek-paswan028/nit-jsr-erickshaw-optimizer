@@ -2,7 +2,7 @@
 
 **Observer:** Vivek Paswan (Final-year B.Tech, Production & Industrial Engg., NIT Jamshedpur)  
 **Date of Observation:** November 17, 2026  
-**Observation Window:** 13:05 – 13:35 IST (30-minute afternoon shift change / post-lunch lab dispersal)  
+**Observation Window:** 16:10 – 16:35 IST (Afternoon major academic dispersal / lab-end burst; verified by camera timestamps 16:15 and 16:28)  
 **Location:** Auto & E-Rickshaw curb stand directly adjacent to NIT Jamshedpur Main Gate (Adityapur-Kandra Road side, facing the tea and fruit-juice stall by the security barricade)  
 **Primary Informant:** Manoj Mahato (Age ~38, resident of Adityapur Basti; drives a blue Mayuri e-rickshaw bearing registration JH-05-XXXX, operating at NIT Gate for 4 years)
 
@@ -52,3 +52,4 @@ I spent 20 minutes sitting on the passenger bench of Manoj’s blue e-rickshaw w
 - Tally records were noted on a physical clip pad with 4 columns: `Arrival Timestamp (HH:MM)`, `Departure Timestamp (HH:MM)`, `Headcount Boarded`, `Headcount Abandoned/Walk-away`, and `Destination & Fare`.
 - Timestamps were synchronized to Android IST network time.
 - The 24 observed vehicle turnaround cycles across morning and afternoon gate batches were subsequently cleaned and formatted into `data.csv`.
+
